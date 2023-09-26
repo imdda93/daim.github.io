@@ -4,13 +4,6 @@
 body {
     font-family: 'Raleway', sans-serif;
 }
-.container,
-.name-button,
-.description,
-.list,
-.bottom-box {
-    /* 나머지 스타일 속성들을 그대로 유지합니다. */
-}
 
 main {
     display: flex;
